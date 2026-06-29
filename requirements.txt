@@ -1,0 +1,9 @@
+# EduSmart - Student Performance Analytics System
+# Core dependencies for preprocessing, training, and the Streamlit frontend.
+
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+joblib
